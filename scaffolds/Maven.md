@@ -1,6 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-categories:
+categories: 
+    - 技术
+    - java
+    - Maven
 tags:
 ---

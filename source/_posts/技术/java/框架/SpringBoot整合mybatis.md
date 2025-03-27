@@ -90,4 +90,5 @@ public interface UserInfoDao {
 想spring容器中注册SqlSessionFactory，并根据mapper配置文件解析出dao与具体jdbc操作、resultMap与实体类的映射关系。
 
 注册实现了CRUD的SqlSessionTemplate类
-![alt text](image.png)
+
+<img src="https://cdn.jsdelivr.net/gh/neoisok/assets@main/images%2F2025%2F03%2F27%2FMyBatis%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84.png" width="600">
