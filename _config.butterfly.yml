@@ -21,9 +21,10 @@ menu:
   Archives: /archives/ || fas fa-archive
   Tags: /tags/ || fas fa-tags
   Categories: /categories/ || fas fa-folder-open
-  Java||fas fa-list:
-    Springboot: /music/ || fas fa-music
-    Mybatis: /movies/ || fas fa-video
+  Java||fas fa-code:
+    Springboot: /Springboot/ || fas fa-leaf
+    Mybatis: /Mybatis/ || fas fa-database
+    Maven: /Maven/ || fas fa-feather
   Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
 
